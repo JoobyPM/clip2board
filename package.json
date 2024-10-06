@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "author": "Pavlo Marakhovskyi",
+  "name": "clip2drive",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "googleapis": "39",
+    "open": "8.4.0"
+  }
+}
